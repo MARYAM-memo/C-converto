@@ -1,13 +1,13 @@
 # Currencies_Converting
   👉[C-convert in techZaming](https://youtu.be/wtysEnp5_yU)
 ## About: 
-This app allows users to enter the value of any currency and convert it to the values of other currencies.
+This app allows users to enter the value of any currency from given currencies and convert it to the values of other given currencies.
 
 ## Functions: 
   - Change drawer's icon.
   - Currencies Converting function.
   - Changing Theme of this App.
-  - Changing Colors as the user wants.
+  - Changing Colors as the user wants from given colors.
   
 ## Packages:
   - provider: ^6.0.3
